@@ -3,6 +3,8 @@
 ## Abstract
 [Abstract.pdf](./docs/Abstract.pdf)
 
+Dataset: https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+
 ## Description
 Developed machine learning models to predict 30-day readmissions for diabetes patients using a dataset from 130 U.S. hospitals (1999–2008) with 101,766 records and 48 features. Conducted thorough exploratory data analysis, feature engineering, and data cleaning to enhance model performance.
 
